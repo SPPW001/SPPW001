@@ -249,50 +249,13 @@ My personal website acts as the central hub connecting my projects, resources, p
 
 <br><br>
 
-```text
-        SOFTWARE
-           │
-           ▼
-     ┌─────────────┐
-     │             │
-     ▼             ▼
-    DATA           AI
-     │             │
-     └──────┬──────┘
-            ▼
-       AUTOMATION
-            │
-            ▼
-         PRODUCT
-```
-
-</div>
-
----
-
 <div align="center">
 
 ## ✦ GITHUB STATS ✦
 
 <br>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SPPW001&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C084FC&icon_color=FF3366&text_color=EDE9FE&ring_color=06B6D4"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPPW001&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C084FC&text_color=EDE9FE"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=SPPW001&hide_border=true&background=0D0B14&stroke=7C3AED&ring=C026D3&fire=FF1744&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=06B6D4&sideLabels=C084FC&dates=94A3B8"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ ACTIVITY ✦
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SPPW001&bg_color=0D0B14&color=C084FC&line=7C3AED&point=FF3366&area=true&hide_border=true"/>
 
 </div>
 
@@ -317,27 +280,6 @@ Independent repositories represent the products, experiments, and systems I buil
 ---
 
 <div align="center">
-
-## ✦ MY DIGITAL ECOSYSTEM ✦
-
-```text
-                   SETYO PRATAMA
-                         │
-                         ▼
-                 PERSONAL WEBSITE
-                         │
-              ┌──────────┼──────────┐
-              │          │          │
-              ▼          ▼          ▼
-           GITHUB     LINKEDIN   INSTAGRAM
-              │
-              ▼
-           PROJECTS
-              │
-       ┌──────┼──────────────┐
-       ▼      ▼              ▼
- MarketSight Zeliz    TrackerProductR
-```
 
 <br>
 
