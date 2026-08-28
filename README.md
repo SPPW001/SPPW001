@@ -16,13 +16,13 @@
 
 <br/>
 
-<a href="YOUR_WEBSITE_URL">
+<a href="http://profil-setyo-pratama-putra-wibowo.vercel.app/">
   <img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=vercel&logoColor=ffffff">
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/setyo-pratama-putra-wibowo-7692642b6/">
   <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=ffffff">
 </a>
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.instagram.com/pratama.end">
   <img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=ffffff">
 </a>
 
