@@ -53,7 +53,6 @@ I enjoy turning ideas into systems that can actually be used.
 
 Not just:
 
-```text
 IDEA → CODE
 
 but:
