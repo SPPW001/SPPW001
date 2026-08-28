@@ -13,15 +13,15 @@
 
 <br><br>
 
-<a href="YOUR_WEBSITE_URL">
+<a href="http://profil-setyo-pratama-putra-wibowo.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/setyo-pratama-putra-wibowo-7692642b6/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.instagram.com/pratama.end">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -196,7 +196,7 @@ My personal website acts as the central hub connecting my projects, resources, p
 
 <br>
 
-<a href="YOUR_WEBSITE_URL">
+<a href="http://profil-setyo-pratama-putra-wibowo.vercel.app/">
 <img src="https://img.shields.io/badge/EXPLORE_MY_WORLD-FF1744?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
@@ -287,15 +287,15 @@ Independent repositories represent the products, experiments, and systems I buil
 
 <br>
 
-<a href="YOUR_WEBSITE_URL">
+<a href="http://profil-setyo-pratama-putra-wibowo.vercel.app/">
 <img src="https://img.shields.io/badge/WEBSITE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/setyo-pratama-putra-wibowo-7692642b6/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.instagram.com/pratama.end">
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
